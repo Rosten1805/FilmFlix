@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+.env.local
+.env.development
+.env.test
+node_modules
+.next
+verflix/
+FilmFlix-app/
+README.md
+DOCS/

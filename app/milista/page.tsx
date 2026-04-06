@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { tmdbClient } from '@/lib/tmdb';
 import HeroBanner from '@/components/HeroBanner';
 import FavoritesGrid from '@/components/FavoritesGrid';

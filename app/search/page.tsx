@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { tmdbClient } from '@/lib/tmdb';
 import MovieCard from '@/components/MovieCard';
 import Footer from '@/components/Footer';

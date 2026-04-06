@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import Link from 'next/link';
 import { tmdbClient } from '@/lib/tmdb';
 import Footer from '@/components/Footer';

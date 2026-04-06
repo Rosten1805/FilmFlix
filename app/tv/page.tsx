@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { tmdbClient } from '@/lib/tmdb';
 import MovieSlider from '@/components/MovieSlider';
 import HeroBanner from '@/components/HeroBanner';

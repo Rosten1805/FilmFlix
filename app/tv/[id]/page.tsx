@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import Image from 'next/image';
 import { tmdbClient, getImageUrl, getYear, formatRating } from '@/lib/tmdb';
 import CastCard from '@/components/CastCard';
